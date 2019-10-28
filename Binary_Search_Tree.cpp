@@ -76,7 +76,7 @@ int main()
     root = insert(root,y);
     cout<<"enter tree size:"<<endl;
     cin>>size;
-    cout<<"enter elements:"<<endl;
+    cout<<"enter elements of tree:"<<endl;
     for(int i=1;i<size;i++)
     {
         cout<<"element "<<i+1<<"\n";
